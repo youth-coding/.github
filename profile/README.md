@@ -4,9 +4,9 @@ I'm excited that you're here. I'm 𝚆𝚎𝚗𝚍𝚒𝚛𝚊𝚍 𝙳., someon
 
 What to Expect:
 
-📚 * Simple coding tutorials to get you going.
-🚀 * Tips on careers in tech—like computer science, AI, and engineering.
-💬 * A place where you can ask questions and learn at your own pace.
+* 📚 Simple coding tutorials to get you going.
+* 🚀 Tips on careers in tech—like computer science, AI, and engineering.
+* 💬 A place where you can ask questions and learn at your own pace.
 
 And don’t worry—this is all totally free. I’m here to help you find your way in the world of coding 👩‍💻.
 
